@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  linkProject
+
+  Created by Hibah Abdullah Alatawi on 20/02/1445 AH.
+  
+*/
+"1" = "Be careful..!!" ;
+"2" = "Paste the link.." ;
+"3" = "Protect yourself.." ;
+"4" = "Don’t interact with suspicious links \n fraud is one click away" ;
+"5" = "Being cautious when it comes to  links \n is best for you always verify before trusting" ;
+"6" = "Make sure the website is valid \n to protect your privacy and security" ;
+"7" = "Next" ;
+"8" = "Get started" ;
+"9IEN" = "enCard1" ;
+"10IEN" = "enCard1" ;
+"11IEN" = "enCard1" ;
+"12" = "Enter URL here" ;
+"13" = "Verify" ;
+"14" = "Reporting Cyber Crime" ;
+"15" = "URL is Valid" ;
+"16" = "Please enter a valid URL";
+"17" = "Invalid";
+"18" = "Ok";
+"19" = "  Inter URL";
+
